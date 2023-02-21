@@ -1,7 +1,7 @@
 <script setup>
-import Chat from './components/Chat.vue'
+import SimplifiedChatGPT from "./components/SimplifiedChatGPT.vue";
 </script>
 
 <template>
-  <Chat/>
+  <SimplifiedChatGPT />
 </template>
